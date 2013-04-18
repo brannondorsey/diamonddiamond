@@ -50,6 +50,7 @@ In order to meet these image specifications it is recommended that you resize al
 If Diamond Diamond doesn't open or the app doesn't work like you think its supposed to file these steps-
 
 1. Double check that the .text file that you are trying to load is placed in the writings folder. This folder is located inside the app and can be accessed by right clicking Diamond Diamond, selecting "Show Package Contents" and then navigating inside the data folder to writings (Contents/Resources/Java/data/writings). This file name must have a .txt extension and may not contain spaces.
+
 2. Make sure that the edit_this.txt file is inside the data folder and that it points to the correct file name in of the writing folder. It should look like this-
 
 Name of text file : your_text_file.txt
